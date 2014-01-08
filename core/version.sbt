@@ -1,2 +1,2 @@
-version := "5.3-M8-SNAPSHOT"
+version := "5.3-M9-LOCAL"
 
